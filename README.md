@@ -13,7 +13,7 @@
 
 
 ## General Information
-- In this project we used loan dataset .
+- In this project we used loan a dataset.
 - We are using EDA for our analysis.
 - In this project, we will solve two major problems for financial companies. First, 
   to reduce the rate of defaulters and second to increase the rate good customers.
